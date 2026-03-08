@@ -1,10 +1,10 @@
 ## Experiment Title
 
-Menu‑driven calculator using functions
+Experiment 5
 
 ## Aim
 
-To write a Python program using a user‑defined function to compute the sum and product of two numbers, and to provide a menu‑driven interface for repeated calculations.
+To write a program to demonstrate tuple and related functions in Python.
 
 ## Algorithm
 

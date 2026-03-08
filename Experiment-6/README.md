@@ -1,10 +1,10 @@
 ## Experiment Title
 
-Phone book implementation using dictionary
+Experiment 6
 
 ## Aim
 
-To write a Python program to implement a simple phone book using a dictionary and provide menu‑driven operations to display entries, names, phone numbers, delete an entry, and exit.
+To write a program to demonstrate dictionary and related functions in Python.
 
 ## Algorithm
 

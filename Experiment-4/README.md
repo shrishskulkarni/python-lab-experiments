@@ -1,10 +1,10 @@
 ## Experiment Title
 
-List operations in Python
+Experiment 4
 
 ## Aim
 
-To write a Python program to demonstrate basic list operations such as appending, extending, copying, sorting, inserting, removing elements, clearing a list, and slicing assignment.
+To write a program to demonstrate list and related functions in Python.
 
 ## Algorithm
 

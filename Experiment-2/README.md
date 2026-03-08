@@ -1,10 +1,10 @@
 ## Experiment Title
 
-Cricket player performance evaluation
+Experiment 2
 
 ## Aim
 
-To write a Python program to evaluate the batting, bowling, and fielding performance of cricket players using strike rate, economy rate, wickets, and catches, and to categorize players based on given criteria.
+To write a program to implement control flow statements and looping statements in Python.
 
 ## Algorithm
 

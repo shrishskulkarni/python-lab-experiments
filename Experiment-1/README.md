@@ -1,10 +1,10 @@
 ## Experiment Title
 
-Verification of algebraic and bitwise identities using Python
+Experiment 1
 
 ## Aim
 
-To write a Python program to verify basic algebraic (binomial and cubic) identities and related bitwise operator identities.
+To demonstrate various data types and operators in Python.
 
 ## Algorithm
 

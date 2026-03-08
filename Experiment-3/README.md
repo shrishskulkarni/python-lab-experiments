@@ -1,10 +1,10 @@
 ## Experiment Title
 
-String manipulation operations in Python
+Experiment 3
 
 ## Aim
 
-To write a Python program to perform various string operations such as case conversion, slicing, splitting, searching, replacing, and indexing using built‑in string methods.
+To write a program to implement various string operations in Python.
 
 ## Algorithm
 

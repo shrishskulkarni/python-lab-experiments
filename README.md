@@ -4,12 +4,12 @@ This repository contains a collection of basic Python lab experiments, each in i
 
 ### Structure
 
-- **Experiment-1**: Verification of algebraic and bitwise identities using Python.
-- **Experiment-2**: Cricket player performance evaluation using batting, bowling, and fielding metrics.
-- **Experiment-3**: String manipulation operations using various built‑in methods.
-- **Experiment-4**: Demonstration of list operations such as append, extend, copy, sort, insert, remove, clear, and slicing.
-- **Experiment-5**: Menu‑driven calculator using a function to compute sum and product.
-- **Experiment-6**: Phone book implementation using a dictionary with menu‑driven operations.
+- **Experiment 1**: Demonstrate various data types and operators in Python.
+- **Experiment 2**: Implement control flow statements and looping statements in Python.
+- **Experiment 3**: Implement various string operations in Python.
+- **Experiment 4**: Demonstrate list and related functions in Python.
+- **Experiment 5**: Demonstrate tuple and related functions in Python.
+- **Experiment 6**: Demonstrate dictionary and related functions in Python.
 
 Each experiment folder contains:
 

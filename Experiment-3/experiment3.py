@@ -1,0 +1,13 @@
+a = input("enter a string: ")
+
+print(a.upper())
+print(a.lower())
+print(a.title())
+print(a.swapcase())
+print(a.capitalize())
+print(a[:5])
+print(a.split())
+print(a.find('h'))
+print(a.replace('a', 'b'))
+print(len(a))
+print(a.index("hi"))

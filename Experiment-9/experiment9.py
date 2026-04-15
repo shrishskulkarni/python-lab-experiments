@@ -1,11 +1,5 @@
-try:
-    import pandas as pd
-    import matplotlib.pyplot as plt
-except ModuleNotFoundError as e:
-    print("Missing required package:", e.name)
-    print("Install dependencies and try again:")
-    print("  pip install pandas matplotlib")
-    raise
+import pandas as pd
+import matplotlib.pyplot as plt
 
 # data
 SL = [101, 102, 103, 104, 105]

@@ -13,6 +13,7 @@ This repository contains a collection of basic Python lab experiments, each in i
 - **Experiment 7**: Demonstrate objects, classes, inheritance, and polymorphism in Python.
 - **Experiment 8**: Demonstrate regular expressions in Python.
 - **Experiment 9**: Demonstrate Pandas DataFrame creation and Matplotlib plotting.
+- **Experiment 10**: Demonstrate Pandas DataFrame cleaning and basic inspection.
 
 Each experiment folder contains:
 
